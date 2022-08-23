@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img href="https://github.com/Caiocesar173/Caiocesar173/blob/main/snake.svg" alt="Snake animation" />
+<img src="./snake.svg" alt="Snake animation" />
 
 ###
